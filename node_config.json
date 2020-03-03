@@ -1,0 +1,8 @@
+{
+    "random_join_time": 120,
+    "discovery_time": 40,
+    "beacon_scan_duration": 12,
+    "max_hop_limit": 8,
+    "reconnection_timeout": 108000,
+    "node_delete_time": 432000
+}
