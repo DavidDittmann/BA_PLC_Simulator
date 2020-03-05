@@ -1,8 +1,7 @@
 import random
 # Auch wieder mit random LQI!
-import time
-from graphviz import Graph
 import json
+from graphviz import Graph
 
 # seed = time.time()
 seed = 1583142593
@@ -31,13 +30,10 @@ class NODE:
     def __repr__(self):
         return str(self.id) + str(self.neighbors)
 
-class COORDINATOR(NODE):
-    pass
-
 number_nodes = 51
 NODES = []
 
-NODES.append(COORDINATOR(0))
+NODES.append(NODE(0))
 
 for num in range(1, number_nodes):
     Node = NODE(num)
