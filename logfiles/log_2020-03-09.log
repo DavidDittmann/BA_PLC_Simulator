@@ -1,0 +1,678 @@
+2020-03-09 14:29:35,225 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:29:35,227 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:29:35,227 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:29:35,240 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:29:35,242 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:29:35,243 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:29:35,243 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:29:35,243 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:29:35,244 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:29:35,244 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:29:35,244 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:29:35,244 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:29:35,245 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:29:35,245 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:30:09,166 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:30:09,169 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:30:09,169 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:30:09,177 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:30:09,179 	 [INFO | coordinator.py:34] > update coord
+2020-03-09 14:30:09,179 	 [INFO | coordinator.py:34] > update coord
+2020-03-09 14:30:09,180 	 [INFO | coordinator.py:34] > update coord
+2020-03-09 14:30:09,180 	 [INFO | coordinator.py:34] > update coord
+2020-03-09 14:30:09,180 	 [INFO | coordinator.py:34] > update coord
+2020-03-09 14:30:09,180 	 [INFO | coordinator.py:34] > update coord
+2020-03-09 14:30:09,181 	 [INFO | coordinator.py:34] > update coord
+2020-03-09 14:30:09,181 	 [INFO | coordinator.py:34] > update coord
+2020-03-09 14:30:09,181 	 [INFO | coordinator.py:34] > update coord
+2020-03-09 14:30:09,181 	 [INFO | coordinator.py:34] > update coord
+2020-03-09 14:30:39,028 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:30:39,029 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:30:39,029 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:30:39,038 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:30:39,040 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:30:39,041 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:30:39,041 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:30:39,041 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:30:39,042 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:30:39,042 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:30:39,042 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:30:39,042 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:30:39,043 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:30:39,043 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:31:18,759 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:31:18,761 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:31:18,761 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:31:18,769 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:31:18,771 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:31:18,772 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:31:18,772 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:31:18,773 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:31:18,773 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:31:18,773 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:31:18,774 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:31:18,774 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:31:18,774 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:31:18,775 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:32:10,068 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:32:10,070 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:32:10,070 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:32:10,078 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:32:10,079 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:04,938 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:33:04,939 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:33:04,939 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:33:04,948 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:33:04,950 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:14,145 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:33:14,147 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:33:14,147 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:33:14,156 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:33:14,158 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:14,159 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:14,159 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:14,159 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:14,160 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:14,160 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:14,160 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:14,160 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:14,161 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:14,161 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:37,205 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:33:37,206 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:33:37,206 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:33:37,215 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:33:37,217 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:37,218 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:37,218 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:37,218 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:37,218 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:37,219 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:37,219 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:37,219 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:37,220 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:33:37,220 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:27,471 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:34:27,472 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:34:27,472 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:34:27,482 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:34:27,483 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:27,484 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:27,484 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:27,484 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:27,485 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:27,485 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:27,485 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:27,485 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:27,486 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:27,486 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:52,769 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:34:52,771 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:34:52,771 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:34:52,779 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:34:52,781 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:52,782 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:34:52,782 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:52,782 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:34:52,782 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:52,783 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:34:52,783 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:52,783 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:34:52,783 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:52,783 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:34:52,784 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:52,784 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:34:52,784 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:52,784 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:34:52,784 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:52,785 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:34:52,785 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:52,785 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:34:52,785 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:34:52,785 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:35:15,620 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:35:15,622 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:35:15,622 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:35:15,630 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:35:15,632 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:15,633 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:15,633 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:15,634 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:15,634 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:15,634 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:15,634 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:15,634 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:15,635 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:15,635 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:45,476 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:35:45,478 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:35:45,478 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:35:45,486 	 [INFO | base_setup.py:21] > Starting simulation...
+2020-03-09 14:35:45,489 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:45,489 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:35:45,489 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:45,489 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:35:45,489 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:45,490 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:35:45,490 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:45,490 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:35:45,490 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:45,490 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:35:45,491 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:45,491 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:35:45,491 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:45,491 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:35:45,492 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:45,492 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:35:45,492 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:45,492 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:35:45,492 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:35:45,493 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:36:30,616 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:36:30,617 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:36:30,618 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:36:30,625 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:36:30,626 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:30,626 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:36:30,627 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:30,627 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:36:30,627 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:30,627 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:36:30,627 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:30,627 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:36:30,628 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:30,628 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:36:30,628 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:30,628 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:36:30,629 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:30,629 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:36:30,629 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:30,629 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:36:30,629 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:30,629 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:36:30,630 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:30,630 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:36:57,049 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:36:57,051 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:36:57,051 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:36:57,059 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:36:57,061 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:57,062 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:57,062 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:57,062 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:57,063 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:57,063 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:57,063 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:57,064 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:57,064 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:36:57,064 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:38:51,700 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:38:51,702 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:38:51,702 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:38:51,710 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:38:51,713 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:38:51,713 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:38:51,713 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:38:51,714 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:38:51,714 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:38:51,714 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:38:51,714 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:38:51,715 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:38:51,715 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:38:51,715 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:39:58,903 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:39:58,904 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:39:58,904 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:39:58,919 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:39:58,924 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:39:58,925 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:39:58,926 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:39:58,926 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:39:58,927 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:39:58,927 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:39:58,935 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:39:58,935 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:39:58,936 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:39:58,936 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:40:33,122 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:40:33,124 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:40:33,124 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:40:33,134 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:40:33,136 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:40:33,136 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:41:40,258 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:41:40,260 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:41:40,260 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:41:40,271 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:41:40,273 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:41:40,274 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:42:12,238 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:42:12,239 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:42:12,239 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:42:12,248 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:42:12,251 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:42:12,251 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:43:19,762 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:43:19,764 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:43:19,764 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:43:19,772 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:43:19,774 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:43:19,774 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:44:19,338 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:44:19,339 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:44:19,340 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:44:19,348 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:44:19,350 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:44:19,350 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:46:09,606 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:46:09,607 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:46:09,607 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:46:09,617 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:46:09,619 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:46:09,620 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:46:09,621 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:46:09,621 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:46:09,622 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:46:09,622 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:46:09,623 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:46:09,623 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:46:09,624 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:46:09,624 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:46:09,625 	 [INFO | coordinator.py:18] > update coord
+2020-03-09 14:46:09,625 	 [INFO | coordinator.py:22] > update coord2
+2020-03-09 14:48:32,440 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:48:32,442 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:48:32,442 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:48:32,451 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:48:32,453 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:48:32,453 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:48:32,454 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:48:32,454 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:48:32,455 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:48:32,456 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:02,650 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:50:02,651 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:50:02,652 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:50:02,660 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:50:02,662 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:02,664 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:02,665 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:02,666 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:02,667 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:02,669 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:28,932 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:50:28,934 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:50:28,934 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:50:28,948 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:50:28,950 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:28,952 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:28,954 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:28,955 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:28,966 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:28,967 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:32,535 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:50:32,538 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:50:32,538 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:50:32,551 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:50:32,554 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:32,555 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:32,557 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:32,558 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:32,566 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:32,568 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:35,529 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:50:35,530 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:50:35,531 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:50:35,543 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:50:35,544 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:35,545 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:35,546 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:35,547 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:35,547 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:35,548 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:38,285 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:50:38,288 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:50:38,288 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:50:38,301 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:50:38,303 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:38,304 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:38,306 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:38,307 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:38,308 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:38,317 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:41,250 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:50:41,252 	 [INFO | main.py:28] > Settings: ; Seed:None; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:50:41,252 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:50:41,265 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:50:41,266 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:41,267 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:41,268 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:41,270 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:41,271 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:50:41,272 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:36,219 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:51:44,889 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:51:44,890 	 [INFO | main.py:28] > Settings: ; Seed:145687; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:51:44,891 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:51:44,904 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:51:44,906 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:44,907 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:44,908 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:44,909 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:44,909 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:44,910 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:52,358 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:51:52,360 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:51:52,360 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:51:52,374 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:51:52,376 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:52,377 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:52,378 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:52,380 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:52,381 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:51:52,382 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:53:10,445 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:53:10,446 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:53:10,446 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:53:10,455 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:53:10,457 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:53:10,458 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:53:10,459 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:53:10,460 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:53:10,461 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:53:10,462 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:54:45,791 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:54:45,792 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:54:45,793 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:54:45,802 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:54:45,804 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:54:45,805 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:54:45,806 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:54:45,807 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:54:45,808 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:54:45,809 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:54:45,810 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:54:45,821 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:54:45,822 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:54:45,824 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:21,469 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:55:21,470 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:55:21,470 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:55:21,479 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:55:21,481 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:21,482 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:21,483 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:21,484 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:21,485 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:21,486 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:21,487 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:21,502 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:21,503 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:21,504 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:50,135 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:55:50,136 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:55:50,137 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:55:50,154 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:55:50,156 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:50,157 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:50,158 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:50,160 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:50,161 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:50,162 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:50,172 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:50,173 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:50,176 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:55:50,177 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:50,173 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:56:50,175 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:56:50,175 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:56:50,183 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:56:50,185 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:50,187 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:50,188 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:50,190 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:50,199 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:50,201 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:50,203 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:50,204 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:50,205 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:50,206 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:59,034 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:56:59,036 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:56:59,036 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:56:59,048 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:56:59,050 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:59,051 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:59,053 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:59,054 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:59,056 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:59,065 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:59,066 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:59,067 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:59,068 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:56:59,070 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:58:53,789 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:58:53,791 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:58:53,791 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:58:53,799 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:58:53,801 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:58:53,802 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:58:53,803 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:58:53,804 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:58:53,805 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:58:53,806 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:58:53,807 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:58:53,817 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:58:53,819 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:58:53,820 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:15,989 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:59:15,990 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:59:15,991 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:59:15,999 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:59:16,001 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:16,002 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:16,003 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:16,005 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:16,006 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:16,007 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:16,017 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:16,018 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:16,019 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:16,021 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:50,286 	 [INFO | main.py:10] > Starting program...
+2020-03-09 14:59:50,287 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 14:59:50,287 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 14:59:50,296 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 14:59:50,298 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:50,299 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:50,300 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:50,301 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:50,302 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:50,304 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:50,313 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:50,315 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:50,316 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 14:59:50,317 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:04:11,427 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:04:11,429 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:04:11,429 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:04:11,438 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:04:11,439 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:04:29,928 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:04:29,930 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:04:29,930 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:04:29,938 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:04:29,940 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:04:29,941 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:04:29,943 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:04:29,944 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:04:29,945 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:04:29,955 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:04:29,956 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:04:29,957 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:04:29,959 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:04:29,961 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:05:49,165 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:05:49,167 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:05:49,168 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:05:49,176 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:05:49,178 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:05:49,179 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:05:49,180 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:05:49,182 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:05:49,183 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:05:49,184 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:05:49,195 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:05:49,196 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:05:49,198 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:05:49,199 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:07:58,263 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:07:58,264 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:07:58,264 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:07:58,273 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:07:58,275 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:07:58,277 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:07:58,279 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:07:58,280 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:07:58,282 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:07:58,292 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:07:58,293 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:07:58,294 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:07:58,295 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:07:58,296 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:09:57,076 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:09:57,077 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:09:57,078 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:09:57,086 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:09:57,088 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:09:57,090 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:09:57,091 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:09:57,093 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:09:57,094 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:09:57,105 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:09:57,107 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:09:57,108 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:09:57,109 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:09:57,111 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:11:37,824 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:11:37,825 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:11:37,825 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:11:37,833 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:11:37,835 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:11:37,837 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:11:44,910 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:11:44,912 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:11:44,912 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:11:44,926 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:11:44,928 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:11:44,929 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:12:26,834 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:12:26,836 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:12:26,836 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:12:26,845 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:12:26,847 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:13:26,850 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:13:26,851 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:13:26,851 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:13:26,861 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:13:26,862 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:13:26,864 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:13:44,342 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:13:44,344 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:13:44,344 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:13:44,356 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:13:44,358 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:13:58,596 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:13:58,597 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:13:58,598 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:13:58,606 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:14:43,200 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:14:43,203 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:14:43,204 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:14:43,215 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:14:43,220 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:14:43,223 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:14:43,237 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:14:43,246 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:14:43,254 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:14:43,258 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:14:43,262 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:14:43,270 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:14:43,274 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:14:43,286 	 [INFO | coordinator.py:16] > update coord
+2020-03-09 15:17:51,367 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:17:51,369 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:17:51,369 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:17:51,377 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:18:50,722 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:18:50,723 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:18:50,723 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:18:50,732 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:20:27,226 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:20:27,229 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:20:27,229 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:20:27,237 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:22:16,106 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:22:16,107 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:22:16,108 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:22:16,116 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:22:29,178 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:22:29,179 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:22:29,179 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:22:29,188 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:25:34,431 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:25:34,432 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:25:34,433 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:25:34,441 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:27:35,021 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:27:35,023 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:27:35,023 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:27:35,031 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:29:00,969 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:29:00,971 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:29:00,971 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:29:00,979 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:30:38,797 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:30:38,798 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:30:38,798 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:30:38,806 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:30:57,912 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:30:57,914 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:30:57,914 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:30:57,923 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:31:43,197 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:31:43,198 	 [INFO | main.py:28] > Settings: ; Seed:145687; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:31:43,198 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:31:43,210 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:31:48,721 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:31:48,722 	 [INFO | main.py:28] > Settings: ; Seed:145687; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:31:48,722 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:31:48,737 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:32:08,800 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:32:08,802 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:32:08,802 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:32:08,815 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:32:20,760 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:32:20,762 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:32:20,763 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:32:20,772 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:33:10,380 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:33:10,382 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:33:10,382 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:33:10,391 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:34:14,963 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:34:14,966 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:34:14,966 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:34:14,974 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:34:31,420 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:34:31,422 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:34:31,422 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:34:31,430 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:47:04,903 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:47:04,905 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:47:04,905 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:47:04,914 	 [INFO | base_setup.py:22] > Starting simulation...
+2020-03-09 15:47:37,095 	 [INFO | main.py:10] > Starting program...
+2020-03-09 15:47:37,096 	 [INFO | main.py:28] > Settings: ; Seed:163224; Nodes:12; Urban:False; Optimized:False; SimTime:10; Configs:node_config.json & coord_config.json; Loading:False; LoadFile:topologie.json; SaveFile:topologie.json
+2020-03-09 15:47:37,096 	 [INFO | main.py:39] > Generating new topologie
+2020-03-09 15:47:37,105 	 [INFO | base_setup.py:22] > Starting simulation...

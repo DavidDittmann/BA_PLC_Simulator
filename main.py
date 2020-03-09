@@ -43,7 +43,7 @@ else:
     # TOPOLOGIE SPEICHERN
     storage.write_json(args.sf, top_data)
 
-print(top_data)
+# print(top_data)
 # Simulation starten
 node_config = storage.read_json(args.cN)
 coord_config = storage.read_json(args.cC)
