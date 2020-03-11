@@ -23,4 +23,7 @@ class Simulator:
         print("Starting simulation...")
         for node in self.nodes[::-1]:
             self.env.process(node.update())
-        self.env.run(until=200)
+        self.env.run(until=50)
+        print("PANs VERGEBEN???")
+        for node in self.nodes[::-1]:
+            print(node.node_id, node.pan_id)

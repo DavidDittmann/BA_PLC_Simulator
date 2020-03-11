@@ -8,12 +8,12 @@ logger = log.Logger().get_logger()
 Telegram = collections.namedtuple('Telegram', 'received, telegram')
 
 class Coordinator(node.Node):
-
-    def update(self):
-        for i in range(10):
-            yield self.env.timeout(10)
-            telegram = tlgm.BeaconReq(originator=0, destination=i, final_destination=i)
-            yield from self.send(telegram)
+    pass
+    # def update(self):
+        # for i in range(10):
+        #     yield self.env.timeout(10)
+        #     telegram = tlgm.BeaconReq(originator=0, destination=i, final_destination=i)
+        #     yield from self.send(telegram)
 
     # def send(self, telegram):
     #     while not self.csma_check():
