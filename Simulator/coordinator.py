@@ -8,7 +8,10 @@ logger = log.Logger().get_logger()
 Telegram = collections.namedtuple('Telegram', 'received, telegram')
 
 class Coordinator(node.Node):
-    pass
+    def __init__(self, env, node_id, config, optimized=False):
+        super().__init__(env, node_id, config, optimized)
+        self.pan_id = 1234
+
     # def update(self):
         # for i in range(10):
         #     yield self.env.timeout(10)

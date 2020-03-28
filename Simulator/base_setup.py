@@ -9,21 +9,22 @@ class Simulator:
     def __init__(self, topologie, sim_time, node_config, coord_config, optimized):
         print("Setup Simulation")
         self.env = simpy.Environment()
-        self.start_sim_event = self.env.event()
         self.sim_time = sim_time * 60 * 60 * 100
 
         # Einrichten der Nodes und des Koordinators
-        self.res = module_setup.setup_line_resources(self.env, topologie)
-        self.nodes = module_setup.setup_nodes(self.env, topologie, self.res, node_config, coord_config, optimized)
+        self.channels = module_setup.setup_channels(self.env, topologie)
+        self.nodes = module_setup.setup_nodes(self.env, topologie, node_config, coord_config, optimized)
+        module_setup.update_nodes_channels(self.channels, self.nodes)
+        module_setup.startup_nodes(topologie, self.nodes)
+
+        for node in self.nodes:
+            print(node, node.neighbor_nodes, node.reading_channels)
 
         print("Setup complete")
 
     def start_simulation(self):
         logger.info("Starting simulation...")
         print("Starting simulation...")
-        for node in self.nodes[::-1]:
-            self.env.process(node.update())
         self.env.run(until=50)
-        print("PANs VERGEBEN???")
-        for node in self.nodes[::-1]:
-            print(node.node_id, node.pan_id)
+        # for node in self.nodes[::-1]:
+        #     print(node.node_id, node.pan_id)
