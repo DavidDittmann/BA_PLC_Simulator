@@ -12,7 +12,7 @@ logger.info("Starting program...")
 
 parser = argparse.ArgumentParser(description="Application for generating and simulation of PLC-Network startup.\nWhen additional parameters are set the topologie will get new generated")
 parser.add_argument("--n", default=201, type=int, help="Specifying the number of nodes within the topologie. Default =: 201")
-parser.add_argument("--sT", default=10, type=int, help="Specifying the emulated simulation time in hours. Default=: 10")
+parser.add_argument("--sT", default=10, type=float, help="Specifying the emulated simulation time in hours. Default=: 10")
 parser.add_argument("--cN", default="node_config.json", type=str, help="Specifying the configuration file used by the nodes. Default =: node_config.json")
 parser.add_argument("--cC", default="coord_config.json", type=str, help="Specifying the configuration file used by the coordinator. Default =: coord_config.json")
 parser.add_argument("--S", default=random.seed(time.time()), type=int, help="Topologie generation seed, Default =: Current timestamp")

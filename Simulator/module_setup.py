@@ -18,6 +18,13 @@ class CustomStore(simpy.Store):
     def get_endpoint_ids(self):
         return [node.node_id for node in self.endpoints]
 
+    def get_channel_data(self):
+        item = None
+        if self.items:
+            item = self.items[0]
+            return "CHANNEL" + str(self.get_endpoint_ids()) + " " +str(item)
+        return None
+
     def __repr__(self):
         return "Channel" + str(self.get_endpoint_ids())
 

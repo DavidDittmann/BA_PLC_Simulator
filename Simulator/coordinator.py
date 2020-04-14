@@ -11,6 +11,7 @@ class Coordinator(node.Node):
     def __init__(self, env, node_id, config, optimized=False):
         super().__init__(env, node_id, config, optimized)
         self.pan_id = 1234
+        self.joined = True
 
     # def update(self):
         # for i in range(10):

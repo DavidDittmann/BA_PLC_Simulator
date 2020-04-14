@@ -80,4 +80,23 @@ class TopologieGenerator:
             node_data[str(node.id)] = {
                 "neighbors": node.neighbors
             }
+
+        from graphviz import Graph
+        graph = Graph("PLC-Topologie", filename="topologie.gv")
+        # graph.edge(str(Node.id), str(alt_id))
+        tmp = []
+        del_list = []
+        for node in self.nodes:
+            for neighbor in node.neighbors:
+                if str(node.id) == neighbor:
+                    del_list.append(node.id)
+                elif str(node.id) + ":" + str(neighbor) not in tmp and str(neighbor) + ":" + str(node.id) not in tmp:
+                    tmp.append(str(node.id) + ":" + str(neighbor))
+                    graph.edge(str(node.id), str(neighbor))
+
+        for node in self.nodes:
+            if node.id in del_list:
+                del node.neighbors[str(node.id)]
+        # graph.view()
+
         return node_data
