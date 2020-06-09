@@ -6,8 +6,7 @@ from Topology_Generator import topologie_generator
 from Storage import storage
 from Simulator import base_setup
 
-logger = log.Logger().get_logger()
-logger.info("Starting program...")
+
 
 
 parser = argparse.ArgumentParser(description="Application for generating and simulation of PLC-Network startup.\nWhen additional parameters are set the topologie will get new generated")
@@ -25,9 +24,12 @@ parser.add_argument("--sf", default="topologie.json", type=str, help="Saving int
 args = parser.parse_args()
 msg = "Settings: " + "; Seed:" + str(args.S) + "; Nodes:" + str(args.n) + "; Urban:" + str(args.u) + "; Optimized:" + str(args.o)
 msg = msg + "; SimTime:" + str(args.sT) + "; Configs:" + str(args.cN) + " & " + str(args.cC) + "; Loading:" + str(args.l) + "; LoadFile:" + str(args.lf) + "; SaveFile:" + str(args.sf)
-logger.info(msg)
 
 random.seed(args.S)
+
+logger = log.Logger(args.n).get_logger()
+logger.info("Starting program...")
+logger.info(msg)
 
 top_data = None
 # Laden einer Topologie falls angegeben und vorhanden

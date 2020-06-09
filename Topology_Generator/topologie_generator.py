@@ -97,6 +97,6 @@ class TopologieGenerator:
         for node in self.nodes:
             if node.id in del_list:
                 del node.neighbors[str(node.id)]
-        # graph.view()
+        graph.view()
 
         return node_data

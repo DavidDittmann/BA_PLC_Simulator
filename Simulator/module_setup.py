@@ -3,9 +3,10 @@ from . import node
 from . import coordinator
 
 class CustomStore(simpy.Store):
-    def __init__(self, env, capacity=float('inf')):
+    def __init__(self, env, lqi, capacity=float('inf')):
         super().__init__(env, capacity=float('inf'))
         self.endpoints = []
+        self.lqi = lqi
 
     def peek(self):
         if self.items:
@@ -43,11 +44,11 @@ def setup_channels(env, topologie):
     res = {}
     for node_id, neighbors in topologie.items():
         neighbors = neighbors["neighbors"]
-        for node2 in neighbors.keys():
+        for node2, lqi in neighbors.items():
             con = node_id + ":" + node2
             con_inv = node2 + ":" + node_id
             if not res.get(con, None) and not res.get(con_inv, None):
-                res[con] = CustomStore(env, capacity=1)
+                res[con] = CustomStore(env, lqi, capacity=1)
     return res
 
 def update_nodes_channels(channels, nodes):

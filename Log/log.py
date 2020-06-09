@@ -16,7 +16,7 @@ class Logger(object, metaclass=SingletonType):
     # __metaclass__ = SingletonType   # python 2 Style
     _logger = None
 
-    def __init__(self):
+    def __init__(self, node_num=None):
         self._logger = logging.getLogger("crumbs")
         self._logger.setLevel(logging.DEBUG)
         formatter = logging.Formatter('%(asctime)s \t [%(levelname)s | %(filename)s:%(lineno)s] > %(message)s')
@@ -26,7 +26,10 @@ class Logger(object, metaclass=SingletonType):
 
         if not os.path.isdir(dirname):
             os.mkdir(dirname)
-        fileHandler = logging.FileHandler(dirname + "/log_" + now.strftime("%Y-%m-%d")+".log")
+        if node_num is None:
+            fileHandler = logging.FileHandler(dirname + "/log_" + now.strftime("%Y-%m-%d_%H-%M-%S")+".log")
+        else:
+            fileHandler = logging.FileHandler(dirname + "/log_" + now.strftime("%Y-%m-%d_%H-%M-%S")+"_{}.log".format(node_num))
 
         # streamHandler = logging.StreamHandler()
 
@@ -35,8 +38,6 @@ class Logger(object, metaclass=SingletonType):
 
         self._logger.addHandler(fileHandler)
         # self._logger.addHandler(streamHandler)
-
-        print("Generate new instance")
 
     def get_logger(self):
         return self._logger

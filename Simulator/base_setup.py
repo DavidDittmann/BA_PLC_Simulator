@@ -17,8 +17,8 @@ class Simulator:
         module_setup.update_nodes_channels(self.channels, self.nodes)
         module_setup.startup_nodes(topologie, self.nodes)
 
-        for node in self.nodes:
-            print(node, node.neighbor_nodes, node.reading_channels)
+        # for node in self.nodes:
+        #     print(node, node.neighbor_nodes, node.reading_channels)
 
         print("Setup complete")
 
@@ -35,7 +35,7 @@ class Simulator:
         num_nodes = len(self.nodes)
         num_joined = 0
         while True:
-            yield self.env.timeout(60)
+            yield self.env.timeout(300)
             num_joined = 0
             joined_nodes = []
             for node in self.nodes:
@@ -49,7 +49,7 @@ class Simulator:
             #    print(node.node_id, node.joined, node.rreq_table, node.routing_table)
             # print(self.env.now, msg)
 
-            if num_joined/num_nodes == 1 or self.env.now > 18000:
+            if num_joined/num_nodes == 1 or self.env.now > 86400:
                 break
 
         logger.info("{} %% joined after {} seconds".format(num_joined/num_nodes * 100, self.env.now))
